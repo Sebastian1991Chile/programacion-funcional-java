@@ -1,2 +1,2 @@
-# job-search
-Busqueda de trabajo en job.github.com desde terminal con Java
+# Rick and Morty Search
+Busqueda de personajes de la serie desde terminal con Java
